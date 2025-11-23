@@ -13,6 +13,9 @@ A modern enterprise-level admin management system built with Django + Vue3 + Ele
 
 </div>
 
+## Demo Link
+[Demo Link https://zq.fuadmin.cn](https://zq.fuadmin.cn/)
+
 ## 📖 Introduction
 
 zq-platform is a comprehensive enterprise-level admin management system solution with a separated frontend and backend architecture. The backend uses Django 5.2 + Django Ninja to build high-performance RESTful APIs, while the frontend is based on Vue 3 + Vben Admin + Element Plus to create a modern management interface.
